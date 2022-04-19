@@ -1,0 +1,12 @@
+**/*.iml
+**/.idea/
+**/.DS_Store
+**/target/
+
+
+**/.settings/
+**/.project
+**/.factorypath
+**/.classpath
+
+BuiltPlugins/
